@@ -7,7 +7,6 @@
 
 - 🔭 Currently studying ReactJS and React Native,
 - :fire:And I'm learning ReactJS, NodeJS and Java
-- 🤔 I don't have much knowledge but if you need i can try to help you with some jobs or doubts
 - 📫 You can chat with me in those links: 
 
       * https://www.linkedin.com/in/geovanni-gava-022ab0124/
