@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello 
 
-<!--
-**geovannigava/geovannigava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+     
+   I'm Geovanni Gava, 33 from Brasil, jr Developer who's trying to learn the whole world at the same minutes :sunglasses: 
+   Jokes over, im really like to programming and search about things and for me is the perfect match because you always searching and studying when you are programming,
+   Check some things about me bellow:
 
-Here are some ideas to get you started:
+- 🔭 Currently studying ReactJS and React Native,
+- :fire:And I'm learning ReactJS, NodeJS and Java
+- 🤔 I don't have much knowledge but if you need i can try to help you with some jobs or doubts
+- 💬 Feel free to ask me about anything, i would love to help (if able to hehe)
+- 📫 You can chat with me in those links: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      * https://www.linkedin.com/in/geovanni-gava-022ab0124/
+      * geovannigava@hotmail.com
+
+      
+ ⚡ I like to play a lot of games, pratice sports, watch Movies, Tv shows and now i'm really into ReactJS. :blush:
+
