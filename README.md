@@ -14,4 +14,5 @@
 
       
  ⚡ I like to play a lot of games, pratice sports, watch Movies, Tv shows and now i'm really into ReactJS. :blush:
+ ![](https://komarev.com/ghpvc/?username=geovannigava)
 
