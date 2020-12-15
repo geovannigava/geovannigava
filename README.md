@@ -6,7 +6,7 @@
    Check some things about me bellow:
 
 - 🔭 I am currently studying ReactJS and React Native, but I also really like Angular S2.
-- :fire:And I'm learning ReactJS, NodeJS,
+- :fire: And I'm learning ReactJS, NodeJS and Python for data science.
 - :fire: Java is my heart <3
 - 📫 You can chat with me in those links: 
 
