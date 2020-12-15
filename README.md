@@ -7,7 +7,7 @@
 
 - 🔭 I am currently studying ReactJS and React Native, but I also really like Angular S2.
 - :fire:And I'm learning ReactJS, NodeJS,
-- :fire:Java <3
+- :fire: Java is my heart <3
 - 📫 You can chat with me in those links: 
 
       * https://www.linkedin.com/in/geovanni-gava-022ab0124/
