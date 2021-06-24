@@ -10,7 +10,7 @@
 - :fire: Java (and Kotlin) is my heart <3
 - 📫 You can chat with me in those links: 
 
-      * https://www.linkedin.com/in/geovanni-gava-022ab0124/
+      * https://www.linkedin.com/in/geovanni-de-morais-gava-022ab0124/
       * geovannigava@hotmail.com
 
       
